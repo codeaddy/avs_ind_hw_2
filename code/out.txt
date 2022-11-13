@@ -1,0 +1,13 @@
+input data:
+ab1c2390i9i8i7axx
+123
+321
+555
+909090
+
+output data:
+abIcIIIIIIX0iIXiVIIIiVIIaxx
+IIIIII
+IIIIII
+VVV
+IX0IX0IX0
